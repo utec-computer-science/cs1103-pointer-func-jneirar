@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jneira/UTEC/2020-1/POOII/Semana 01/TEORIA/cs1103-pointer-func-jneirar/Solucion/src/main.cpp
+iostream
+-
+

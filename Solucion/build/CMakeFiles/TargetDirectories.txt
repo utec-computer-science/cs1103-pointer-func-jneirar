@@ -1,0 +1,3 @@
+/home/jneira/UTEC/2020-1/POOII/Semana 01/TEORIA/cs1103-pointer-func-jneirar/Solucion/build/CMakeFiles/rebuild_cache.dir
+/home/jneira/UTEC/2020-1/POOII/Semana 01/TEORIA/cs1103-pointer-func-jneirar/Solucion/build/CMakeFiles/pointer_function.dir
+/home/jneira/UTEC/2020-1/POOII/Semana 01/TEORIA/cs1103-pointer-func-jneirar/Solucion/build/CMakeFiles/edit_cache.dir
